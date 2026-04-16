@@ -1,0 +1,14 @@
+G:\Mi unidad\tareas U\progra3\tarea\bin\Debug\net10.0\tarea.exe
+G:\Mi unidad\tareas U\progra3\tarea\bin\Debug\net10.0\tarea.deps.json
+G:\Mi unidad\tareas U\progra3\tarea\bin\Debug\net10.0\tarea.runtimeconfig.json
+G:\Mi unidad\tareas U\progra3\tarea\bin\Debug\net10.0\tarea.dll
+G:\Mi unidad\tareas U\progra3\tarea\bin\Debug\net10.0\tarea.pdb
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\tarea.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\tarea.AssemblyInfoInputs.cache
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\tarea.AssemblyInfo.cs
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\tarea.csproj.CoreCompileInputs.cache
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\tarea.dll
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\refint\tarea.dll
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\tarea.pdb
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\tarea.genruntimeconfig.cache
+G:\Mi unidad\tareas U\progra3\tarea\obj\Debug\net10.0\ref\tarea.dll
